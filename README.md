@@ -15,16 +15,17 @@
 - 회고록을 작성하고, 회고 모임을 진행합니다.
 - 인터페이스 부원들이 지속 가능한 글쓰기 활동을 하려면 어떻게 해야할 지 고민합니다.
 - 인터페이스 디스코드 커뮤니티 서버의 INTERFACE.RSS 봇을 관리합니다.
-- [인페인들의 회고 모음](https://github.com/sejonginterface/interface-retrospective)에 정기적으로 자신이 작성한 회고록을 업데이트 합니다.
+- [인페인들의 회고 모음](https://github.com/sejonginterface/interface-retrospective)에 자신이 작성한 회고록을 업데이트 합니다.
 
 
 <details>
     <summary> ✨ </summary>
     <div markdown="1">
         <p align="center">
-            <img width = "400px;" src="./if-writing-img.png" />
+            <img width = "400px;" src="./if-writing-img.png" /> </br>
+            <sub> 소모임 처음 만들었을 때 홍보용으로 사용했던 이미지 😉 </sub>
         </p>
     </div>
-    소모임 처음 만들었을 때 홍보용으로 사용했던 이미지 😉
+    
 </details>
 
